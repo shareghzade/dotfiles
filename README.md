@@ -1,0 +1,2 @@
+# dotfiles
+Personal ArchLinux config
