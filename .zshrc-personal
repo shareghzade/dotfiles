@@ -1,0 +1,71 @@
+# Music
+alias music="termusic"
+alias mu="termusic"
+
+# Install Command
+alias install="sudo pacman -S"
+alias intall="sudo pacman -S"
+alias inall="sudo pacman -S"
+alias insall="sudo pacman -S"
+alias instal="sudo pacman -S"
+alias insatll="sudo pacman -S"
+
+# VPN
+alias frc="sudo openconnect frc.tehss.xyz:555"
+alias frc2="sudo openconnect frc2.tehss.xyz:555"
+alias cac="sudo openconnect cac.tehss.xyz:555"
+
+#fix obvious typo's
+alias cd..='cd ..'
+alias pdw="pwd"
+alias update='sudo pacman -Syyu'
+alias updte='sudo pacman -Syyu'
+
+
+# Delete file or folder
+alias rip="sudo rm -rf"
+
+
+
+
+# Editing File Shortcut
+# change cat to bat
+alias cat="bat"
+
+
+# change Find to fd
+alias find="fd"
+
+
+# Change ps to procs
+alias ps="procs"
+
+
+# Remove Package
+alias remove="sudo pacman -R"
+alias fremove="sudo pacman -Rns"
+
+# Search package
+alias search="pacman -Ss"
+
+# Start Graphical FileManager
+alias start="joshuto"
+alias file="joshuto"
+alias open="joshuto"
+
+
+# Make vim the default editor
+
+
+alias h="helix"
+alias hx="helix"
+alias v="vim"
+
+
+
+# typing test
+alias tp="toipe"
+
+# system monitoring
+alias htop="btm"
+alias bottom="btm"
